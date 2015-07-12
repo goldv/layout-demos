@@ -1,0 +1,81 @@
+html, body{
+  height : 100%;
+}
+
+.container-fluid{
+  height: 100%;
+}
+
+.full-height{
+  height: 100%;
+}
+
+.header-section{
+  height: 5%;
+  padding-bottom:5px;
+  margin-top: 10px;
+}
+
+.header-section .panel{
+  height: 100%;
+  margin: 0px;
+}
+
+.main-section{
+  height: 93%;
+  margin-bottom: 0px;
+}
+
+.main-section .panel{
+  height : 100%;
+  margin: 0px;
+}
+
+.chart-section{
+  height: 50%;
+  padding-bottom: 5px;
+}
+
+.market-data-section{
+  height: 40%;
+}
+
+.orders-section{
+  height: 25%;
+}
+
+.positions-section{
+  height: 25%;
+  padding-bottom:5px;
+}
+
+.transactions-section{
+  height: 60%;
+  padding-top:5px;
+}
+
+.header-tile-outer{
+  display: table;
+  height: 100%;
+}
+
+.header-tile-inner{
+  height: 100%;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.header-tile{
+  text-align: center;
+  width: 100%;
+}
+
+.header-tile h5{
+  margin: 0px;
+
+}
+
+.border-right{
+  border-right: 1px solid #f4f4f4;
+}
+
